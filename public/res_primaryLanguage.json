@@ -16,7 +16,8 @@
       "description": "My first project where I used HTML, CSS, JavaScript to create a video game called Click Faster. The goal of the game is to get a higher score than the score to beat. To win, you must click the red dots to earn as many points possible as the timer counts down. Beware! The red dots are lightning fast. ",
       "images": [
         "images/portfolio/project1/p1.png",
-        "images/portfolio/crowded-cafe.png"
+        "images/portfolio/project1/p2.png",
+        "images/portfolio/project1/p3.png"
       ],
       "url": "https://fmher.github.io/click-faster/",
       "technologies": [
