@@ -3,7 +3,7 @@
     "description_header": "Hello!",
     "description": "As a full-stack developer, my passion for video games initially sparked my interest in coding. I was fascinated by the process of creating simple functions and the challenge of getting my code to work. This exposure led me to pursue a career in technology, which culminated in my graduation from General Assembly in March 2023. I am excited to begin my career as a software engineer and believe that my bootcamp experience has provided me with a solid foundation to thrive in any company.",
     "section_name": {
-      "about": "About me",
+      "about": "About Me",
       "projects": "Projects",
       "skills": "Skills",
       "experience": "Experience"
@@ -15,9 +15,8 @@
       "startDate": "2022",
       "description": "My first project where I used HTML, CSS, JavaScript to create a video game called Click Faster. The goal of the game is to get a higher score than the score to beat. To win, you must click the red dots to earn as many points possible as the timer counts down. Beware! The red dots are lightning fast. ",
       "images": [
-        "images/portfolio/project1/cf1.png",
-        "images/portfolio/project1/cf2.png",
-        "images/portfolio/project1/cf3.png"
+        "images/portfolio/project1/p1.png",
+        "images/portfolio/crowded-cafe.png"
       ],
       "url": "https://fmher.github.io/click-faster/",
       "technologies": [
