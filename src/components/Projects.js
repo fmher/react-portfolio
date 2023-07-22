@@ -62,6 +62,7 @@ class Projects extends Component {
             data={this.state.deps}
           />
         </div>
+        
       </section>
     );
   }

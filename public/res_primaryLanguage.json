@@ -1,118 +1,88 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hello!",
+    "description": "As a full-stack developer, my passion for video games initially sparked my interest in coding. I was fascinated by the process of creating simple functions and the challenge of getting my code to work. This exposure led me to pursue a career in technology, which culminated in my graduation from General Assembly in March 2023. I am excited to begin my career as a software engineer and believe that my bootcamp experience has provided me with a solid foundation to thrive in any company.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Click Faster",
+      "startDate": "2022",
+      "description": "My first project where I used HTML, CSS, JavaScript to create a video game called Click Faster. The goal of the game is to get a higher score than the score to beat. To win, you must click the red dots to earn as many points possible as the timer counts down. Beware! The red dots are lightning fast. ",
+      "images": [
+        "images/portfolio/project1/cf1.png",
+        "images/portfolio/project1/cf2.png",
+        "images/portfolio/project1/cf3.png"
+      ],
+      "url": "https://fmher.github.io/click-faster/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Review N Price",
+      "startDate": "2022",
+      "description": "During this group project, I had a valuable learning experience in the realm of Git. Although dealing with Git issues felt like navigating through Git hell, the knowledge gained made it all worthwhile! Our team used MongoDB to bring life to this project. The website we created allowed users to register an account. Giving users the ability to review any product, edit, or delete their own product reviews. Instead of using images, users could use a video from Youtube. The review came with pricing information and category for each item. Even without an account, visitors could still view all the reviews, but were to modify or delete any product review.",
+      "images": [
+        "images/portfolio/project2/p1.png",
+        "images/portfolio/project2/p2.png",
+        "images/portfolio/project2/p3.png",
+        "images/portfolio/project2/p4.png",
+        "images/portfolio/project2/p5.png"
+      ],
+      "url": "https://stellular-horse-44ede4.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "General Assembly",
+      "title": "Software Engineer Fellow",
+      "years": "11/14/2022 - 2/17/2023",
+      "mainTech": [],
+      "technologies": [
+        "Git",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "React",
+        "Bootstrap",
+        "Bulma",
+        "SQL",
+        "MongoDB",
+        "Django",
+        "REST API"
+      ]
+    }
+  ]
+}

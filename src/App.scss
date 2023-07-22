@@ -426,3 +426,15 @@ footer a:focus {
 	margin-top: 50px;
 	font-size: 22px;
 }
+
+.handshake {
+	animation: handshaking 1.3s 4
+}
+
+@keyframes handshaking {
+	0% { transform: rotate(0deg); }
+	25% { transform: rotate(60deg); }
+  	50% { transform: rotate(0deg); }
+  	75% { transform: rotate(-60deg); }
+  	100% { transform: rotate(0deg); }
+}
